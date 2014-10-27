@@ -9714,6 +9714,19 @@
 127.0.0.1   news.360.cn
 127.0.0.1   www.qihoo.com
 
+# for mobile phone
+127.0.0.1   i.ifeng.com
+127.0.0.1   m.ifeng.com
+127.0.0.1   sina.cn
+127.0.0.1   m.58.com
+127.0.0.1   m.qihoo.com
+127.0.0.1   m.cnbeta.com
+127.0.0.1   m.solidot.org
+
+
+
+
+
 
 
 #for pypi
