@@ -9644,7 +9644,6 @@
 74.125.204.121   s3.feedly.com
 74.125.206.121   s3.feedly.com
 74.125.68.121    s3.feedly.com
-# Section End: others
 
 # Section Start: my_own
 127.0.0.1   acfun.tv
@@ -9655,6 +9654,8 @@
 127.0.0.1   www.cjdby.net
 127.0.0.1   daqi.net
 127.0.0.1   www.daqi.net
+127.0.0.1   dapenti.com
+127.0.0.1   www.dapenti.com
 127.0.0.1   huakoo.net
 127.0.0.1   www.huakoo.net
 127.0.0.1   site44.org
@@ -9690,6 +9691,9 @@
 127.0.0.1   www.hunanzhibo.com
 127.0.0.1   pan.baidu.com
 127.0.0.1   www.pan.baidu.com
+127.0.0.1   v.qq.com
+127.0.0.1   iboku.cn
+127.0.0.1   www.iboku.cn
 # news sites
 127.0.0.1   news.ifeng.com
 127.0.0.1   www.news.ifeng.com
@@ -9713,23 +9717,19 @@
 127.0.0.1   sh.qihoo.com
 127.0.0.1   news.360.cn
 127.0.0.1   www.qihoo.com
-
-# for mobile phone
-127.0.0.1   i.ifeng.com
-127.0.0.1   m.ifeng.com
-127.0.0.1   sina.cn
-127.0.0.1   m.58.com
-127.0.0.1   m.qihoo.com
-127.0.0.1   m.cnbeta.com
-127.0.0.1   m.solidot.org
-
-
+127.0.0.1   www.sohu.com
+127.0.0.1   www.sina.com.cn
+127.0.0.1   www.qq.com
+127.0.0.1   zhihu.com
+127.0.0.1   www.zhihu.com
+127.0.0.1   news.baidu.cn
+127.0.0.1   www.news.baidu.cn
+127.0.0.1   news.google.com.hk
+127.0.0.1   news.google.com
 
 
 
-
-
-#for pypi
+#for ssh
 192.168.0.2 mydesktop
 219.224.142.13 b1029 # :5222 ssh for linux machine :1029 rdp of windows 2003(internet machine)
 219.224.142.14 b1002 # :5222 mydesktop ssh
