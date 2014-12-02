@@ -9734,10 +9734,9 @@
 127.0.0.1   www.news.baidu.cn
 127.0.0.1   news.google.com.hk
 127.0.0.1   news.google.com
-
-
-
-
+127.0.0.1   chinanews.com
+127.0.0.1   www.chinanews.com
+127.0.0.1   news.sogou.com
 
 #for ssh
 192.168.0.2 mydesktop
