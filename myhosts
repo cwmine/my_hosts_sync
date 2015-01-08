@@ -50,10 +50,12 @@
 # news sites
 127.0.0.1   news.ifeng.com
 127.0.0.1   www.news.ifeng.com
+127.0.0.1   i.ifeng.com
 127.0.0.1   news.sohu.com
 127.0.0.1   www.news.sohu.com
 127.0.0.1   news.sina.com
 127.0.0.1   www.news.sina.com
+127.0.0.1   sina.cn
 127.0.0.1   news.qq.com
 127.0.0.1   www.news.qq.com
 127.0.0.1   news.baidu.com
@@ -73,8 +75,8 @@
 127.0.0.1   www.sohu.com
 127.0.0.1   www.sina.com.cn
 127.0.0.1   www.qq.com
-127.0.0.1   zhihu.com
-127.0.0.1   www.zhihu.com
+#127.0.0.1   zhihu.com
+#127.0.0.1   www.zhihu.com
 127.0.0.1   news.baidu.cn
 127.0.0.1   www.news.baidu.cn
 127.0.0.1   news.google.com.hk
