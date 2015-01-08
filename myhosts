@@ -1,0 +1,91 @@
+#Section: prohibited websites
+127.0.0.1   acfun.tv
+127.0.0.1   www.acfun.tv
+127.0.0.1   ltaaa.com
+127.0.0.1   www.ltaaa.com
+127.0.0.1   cjdby.net
+127.0.0.1   www.cjdby.net
+127.0.0.1   daqi.net
+127.0.0.1   www.daqi.net
+127.0.0.1   dapenti.com
+127.0.0.1   www.dapenti.com
+127.0.0.1   huakoo.net
+127.0.0.1   www.huakoo.net
+127.0.0.1   site44.org
+127.0.0.1   www.site44.org
+127.0.0.1   dapenti.org
+127.0.0.1   www.dapenti.org
+127.0.0.1   01porn.com
+127.0.0.1   www.01porn.com
+127.0.0.1   xvideos.com
+127.0.0.1   www.xvideos.com
+127.0.0.1   cnbeta.com
+127.0.0.1   www.cnbeta.com
+127.0.0.1   solidot.org
+127.0.0.1   www.solidot.org
+# video sites
+127.0.0.1   tv.sohu.com
+127.0.0.1   www.tv.sohu.com
+127.0.0.1   tv.qq.com
+127.0.0.1   www.tv.qq.com
+127.0.0.1   iqiyi.com
+127.0.0.1   www.iqiyi.com
+127.0.0.1   pptv.com
+127.0.0.1   www.pptv.com
+127.0.0.1   letv.com
+127.0.0.1   www.letv.com
+127.0.0.1   cntv.com
+127.0.0.1   www.cntv.com
+127.0.0.1   56.com
+127.0.0.1   www.56.com
+127.0.0.1   fengyunzhibo.com
+127.0.0.1   www.fengyunzhibo.com
+127.0.0.1   hunanzhibo.com
+127.0.0.1   www.hunanzhibo.com
+127.0.0.1   pan.baidu.com
+127.0.0.1   www.pan.baidu.com
+127.0.0.1   v.qq.com
+127.0.0.1   iboku.cn
+127.0.0.1   www.iboku.cn
+# news sites
+127.0.0.1   news.ifeng.com
+127.0.0.1   www.news.ifeng.com
+127.0.0.1   news.sohu.com
+127.0.0.1   www.news.sohu.com
+127.0.0.1   news.sina.com
+127.0.0.1   www.news.sina.com
+127.0.0.1   news.qq.com
+127.0.0.1   www.news.qq.com
+127.0.0.1   news.baidu.com
+127.0.0.1   www.news.baidu.com
+127.0.0.1   tech.sina.com
+127.0.0.1   www.youku.com
+127.0.0.1   www.mitbbs.com
+127.0.0.1   www.163.com
+127.0.0.1   news.163.com
+127.0.0.1   www.news.163.com
+127.0.0.1   daqi.com
+127.0.0.1   www.daqi.com
+127.0.0.1   qihoo.com
+127.0.0.1   sh.qihoo.com
+127.0.0.1   news.360.cn
+127.0.0.1   www.qihoo.com
+127.0.0.1   www.sohu.com
+127.0.0.1   www.sina.com.cn
+127.0.0.1   www.qq.com
+127.0.0.1   zhihu.com
+127.0.0.1   www.zhihu.com
+127.0.0.1   news.baidu.cn
+127.0.0.1   www.news.baidu.cn
+127.0.0.1   news.google.com.hk
+127.0.0.1   news.google.com
+127.0.0.1   chinanews.com
+127.0.0.1   www.chinanews.com
+127.0.0.1   news.sogou.com
+#END
+
+#Section: local site
+192.168.137.3 mydesktop
+219.224.142.13 b1029 # :5222 ssh for linux machine :1029 rdp of windows 2003(internet machine)
+219.224.142.14 b1002 # :5222 mydesktop ssh
+#END

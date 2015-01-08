@@ -1,10 +1,25 @@
 #!/usr/bin/env python2
 # encoding: utf-8
-
 import os, shutil, filecmp, time
 
-if __name__ == '__main__':
-    sync_path = os.path.join(os.path.dirname(__file__), 'hosts')
+google_hosts = '../hosts'
+my_hosts = 'myhosts'
+output_hosts = 'output_hosts'
+sync_path = output_hosts
+
+
+def combine_host():
+    """ combine the google host and my own host file segments """
+    lines = []
+    for path in [google_hosts, my_hosts]:
+        with open(path, 'r') as f:
+            lines += f.readlines()
+    with open(output_hosts, 'w') as f:
+        f.writelines(line for line in lines)
+
+
+
+def sync_host_file():
     if os.name == 'nt':
         host_path = r'C:\Windows\System32\drivers\etc\hosts'
     elif os.name == 'posix':
@@ -27,3 +42,8 @@ if __name__ == '__main__':
         for i in range(point_num):
             time.sleep(wait_time/point_num)
             print '.',
+
+if __name__ == '__main__':
+    combine_host()
+    sync_host_file()
+
