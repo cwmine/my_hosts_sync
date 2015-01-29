@@ -78,8 +78,8 @@
 127.0.0.1   www.sina.com.cn
 127.0.0.1   news.sina.com.cn
 127.0.0.1   www.qq.com
-127.0.0.1   zhihu.com
-127.0.0.1   www.zhihu.com
+#127.0.0.1   zhihu.com
+#127.0.0.1   www.zhihu.com
 127.0.0.1   news.baidu.cn
 127.0.0.1   www.news.baidu.cn
 127.0.0.1   news.google.com.hk
