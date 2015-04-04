@@ -23,6 +23,7 @@
 127.0.0.1   www.cnbeta.com
 127.0.0.1   solidot.org
 127.0.0.1   www.solidot.org
+127.0.0.1   1024diss.info
 # video sites
 127.0.0.1   tv.sohu.com
 127.0.0.1   www.tv.sohu.com
@@ -42,8 +43,6 @@
 127.0.0.1   www.fengyunzhibo.com
 127.0.0.1   hunanzhibo.com
 127.0.0.1   www.hunanzhibo.com
-127.0.0.1   pan.baidu.com
-127.0.0.1   www.pan.baidu.com
 127.0.0.1   v.qq.com
 127.0.0.1   iboku.cn
 127.0.0.1   www.iboku.cn
@@ -87,6 +86,8 @@
 127.0.0.1   chinanews.com
 127.0.0.1   www.chinanews.com
 127.0.0.1   news.sogou.com
+127.0.0.1   yun.letv.com
+127.0.0.1   cloud.letv.com
 #END
 
 #Section: local site
