@@ -92,6 +92,7 @@
 
 #Section: local site
 192.168.137.3 mydesktop
+192.168.158.11 home
 219.224.142.13 b1029 # :5222 ssh for linux machine :1029 rdp of windows 2003(internet machine)
 219.224.142.14 b1002 # :5222 mydesktop ssh
 #END
