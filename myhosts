@@ -89,6 +89,8 @@
 127.0.0.1   yun.letv.com
 127.0.0.1   cloud.letv.com
 127.0.0.1   newsmth.net
+127.0.0.1   info.3g.qq.com
+127.0.0.1   m.sohu.com
 #END
 
 #Section: local site
